@@ -1,4 +1,4 @@
-## Olá! Meu nome é lucas Araujo estudante de tecnologia 
+## Olá! Meu nome é Lucas Araujo estudante de tecnologia 
 <div style="display: inline_block">
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-araujo-71572620b)
