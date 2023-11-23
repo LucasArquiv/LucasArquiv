@@ -1,11 +1,11 @@
 ## Olá! Meu nome é Lucas Araujo estudante de tecnologia 
-<div style="display: inline_block; justify-content: center;">  
+<div style="display: inline_block;">  
   
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-araujo-71572620b)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kbc_lucas)
 
 </div>
-<div style="display: flex; justify-content: center;">
+<div style="display: inline_block;">
   <a href="https://github.com/LucasArquiv">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LucasArquiv&show_icons=true&theme=dracula"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasArquiv&layout=compact&langs_count=16&theme=dracula"/>
