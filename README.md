@@ -1,4 +1,4 @@
-## Olá! Meu nome é Lucas Araujo estudante de tecnologia 
+## Olá! Meu nome é Lucas Araujo
 <div style="display: inline_block;">  
 
 
@@ -26,5 +26,5 @@
           
 </div><br/>
 
-#### 🔍 Atualmente, estou imerso no mundo da qualidade de software, explorando técnicas de teste e metodologias ágeis para garantir que os sistemas que construímos sejam robustos e confiáveis.
+#### 🔍 Atualmente sou formado em analise e desenvolvimento de sistemas, estou imerso no mundo da qualidade de software, explorando técnicas de teste e metodologias ágeis para garantir que os sistemas que construímos sejam robustos e confiáveis.
 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em automação de testes, teste de regressão e integração contínua para fornecer produtos de alta qualidade.
